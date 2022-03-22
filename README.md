@@ -1,0 +1,2 @@
+# Dental-Office-Database-Design-and-Implementation_
+The database design includes definitions of all entities along with attributes, sample data and business rules for a dental office. ER diagram of the model using ER Studio is included. The implemented database is used to run a Dental office application allowing patients to create profiles, check dentists’ schedules, and book appointments. The application is integrated with data from MySQL database and hosted on the Apache server using PHP.
